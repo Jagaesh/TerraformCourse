@@ -1,0 +1,4 @@
+*.terraform*
+*.tfstate*
+devops-directive-terraform-course/
+.github/workflows/terraform.yml
